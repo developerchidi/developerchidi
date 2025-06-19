@@ -207,14 +207,12 @@ Tôi là một **Full-Stack Developer** đam mê công nghệ và sáng tạo. V
         
         <div align="center">
           <p><strong>✨ Key Features:</strong></p>
-          <ul style="list-style: none; padding: 0;">
-            <li>🎲 Real-time multiplayer gameplay</li>
-            <li>💬 Live chat system</li>
-            <li>🇻🇳 Vietnamese meme content</li>
-            <li>🏆 Competitive scoring system</li>
-            <li>📱 Responsive design</li>
-            <li>⚡ Fast and optimized performance</li>
-          </ul>
+          • 🎲 Real-time multiplayer gameplay<br>
+          • 💬 Live chat system<br>
+          • 🇻🇳 Vietnamese meme content<br>
+          • 🏆 Competitive scoring system<br>
+          • 📱 Responsive design<br>
+          • ⚡ Fast and optimized performance
         </div>
         
         <div align="center">
@@ -276,12 +274,10 @@ Tôi là một **Full-Stack Developer** đam mê công nghệ và sáng tạo. V
         
         <div align="center">
           <p><strong>✨ Planned Features:</strong></p>
-          <ul style="list-style: none; padding: 0;">
-            <li>🛍️ Product catalog & search</li>
-            <li>💳 Secure payment processing</li>
-            <li>📱 Mobile-first design</li>
-            <li>🔍 Advanced filtering</li>
-          </ul>
+          • 🛍️ Product catalog & search<br>
+          • 💳 Secure payment processing<br>
+          • 📱 Mobile-first design<br>
+          • 🔍 Advanced filtering
         </div>
         
         <div align="center">
@@ -309,12 +305,10 @@ Tôi là một **Full-Stack Developer** đam mê công nghệ và sáng tạo. V
         
         <div align="center">
           <p><strong>✨ Planned Features:</strong></p>
-          <ul style="list-style: none; padding: 0;">
-            <li>✅ Task creation & management</li>
-            <li>👥 Team collaboration</li>
-            <li>📊 Progress tracking</li>
-            <li>🔔 Real-time notifications</li>
-          </ul>
+          • ✅ Task creation & management<br>
+          • 👥 Team collaboration<br>
+          • 📊 Progress tracking<br>
+          • 🔔 Real-time notifications
         </div>
         
         <div align="center">
