@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Beautiful Tech Banner -->
-  <img src="https://github.com/developerchidi/developerchidi/assets/123456789/tech-banner" alt="Tech Banner" width="100%" height="200" style="object-fit: cover; border-radius: 10px; margin-bottom: 20px;">
+  <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTAzMTEyNTEsIm5iZiI6MTc1MDMxMDk1MSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjE5VDA1MjkxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYwMzVhNWY0NzlhNWRmZDdkZTVmZjY1NDhjMmQ1ZGFiNDJjNjI2MDI3ZTk3MjI0NjE1N2Y5ZDhiZmY0MjhkNDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.VCTjJrgRcNXu6LZgTwJ5qGjXZJsdyhiRwIUyNIv9524" alt="Tech Banner" width="100%" height="200" style="object-fit: cover; border-radius: 10px; margin-bottom: 20px;">
   
   <!-- Animated Typing Header -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Chidi!+%F0%9F%91%8B;Welcome+to+my+profile+%F0%9F%8C%9F;Full-Stack+Developer+%F0%9F%9A%80;Passionate+about+innovation+%F0%9F%92%BB" alt="Typing SVG" />
