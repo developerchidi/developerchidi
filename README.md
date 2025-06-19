@@ -352,9 +352,9 @@ Tôi là một **Full-Stack Developer** đam mê công nghệ và sáng tạo. V
 </div>
 
 <!-- Animated Divider -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="Animated Divider">
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4F46E5&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+build+something+amazing+together!+%F0%9F%9A%80;Ready+to+collaborate+on+exciting+projects!+%F0%9F%92%BB" alt="Typing SVG" />
