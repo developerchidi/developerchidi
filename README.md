@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Banner -->
-  <img src="https://github.com/developerchidi/developerchidi/assets/123456789/banner" alt="Banner" width="100%" height="200" style="object-fit: cover; border-radius: 10px; margin-bottom: 20px;">
+  <!-- Beautiful Tech Banner -->
+  <img src="https://github.com/developerchidi/developerchidi/assets/123456789/tech-banner" alt="Tech Banner" width="100%" height="200" style="object-fit: cover; border-radius: 10px; margin-bottom: 20px;">
   
   <!-- Animated Typing Header -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Chidi!+%F0%9F%91%8B;Welcome+to+my+profile+%F0%9F%8C%9F;Full-Stack+Developer+%F0%9F%9A%80;Passionate+about+innovation+%F0%9F%92%BB" alt="Typing SVG" />
@@ -35,17 +35,17 @@
 ### 👨‍💻 Full-Stack Developer & Tech Enthusiast
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="32" height="32" alt="Developer">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="32" height="32" alt="Developer">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="32" height="32" alt="Developer">
+  <img src="https://img.shields.io/badge/💻-Developer-4F46E5?style=for-the-badge" alt="Developer" />
+  <img src="https://img.shields.io/badge/🚀-Innovator-4F46E5?style=for-the-badge" alt="Innovator" />
+  <img src="https://img.shields.io/badge/🎯-Problem%20Solver-4F46E5?style=for-the-badge" alt="Problem Solver" />
 </div>
 
 Tôi là một **Full-Stack Developer** đam mê công nghệ và sáng tạo. Với kinh nghiệm trong việc phát triển các ứng dụng web hiện đại, tôi luôn tìm kiếm những thách thức mới để phát triển kỹ năng và tạo ra những sản phẩm có giá trị.
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="32" height="32" alt="Developer">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="32" height="32" alt="Developer">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="32" height="32" alt="Developer">
+  <img src="https://img.shields.io/badge/🌟-Passionate-4F46E5?style=for-the-badge" alt="Passionate" />
+  <img src="https://img.shields.io/badge/📚-Learner-4F46E5?style=for-the-badge" alt="Learner" />
+  <img src="https://img.shields.io/badge/🤝-Collaborator-4F46E5?style=for-the-badge" alt="Collaborator" />
 </div>
 
 <!-- Animated Divider -->
@@ -59,19 +59,19 @@ Tôi là một **Full-Stack Developer** đam mê công nghệ và sáng tạo. V
   <table>
     <tr>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="60" height="60" alt="AWS">
+        <img src="https://img.shields.io/badge/AWS-Certified-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
         <br><strong>AWS Certified</strong>
       </td>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="60" height="60" alt="Google Cloud">
+        <img src="https://img.shields.io/badge/Google%20Cloud-Certified-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
         <br><strong>Google Cloud</strong>
       </td>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="60" height="60" alt="Microsoft">
+        <img src="https://img.shields.io/badge/Microsoft%20Azure-Certified-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft" />
         <br><strong>Microsoft Azure</strong>
       </td>
       <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="60" height="60" alt="Docker">
+        <img src="https://img.shields.io/badge/Docker-Certified-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
         <br><strong>Docker Certified</strong>
       </td>
     </tr>
@@ -154,7 +154,7 @@ Tôi là một **Full-Stack Developer** đam mê công nghệ và sáng tạo. V
 ## 🎯 Current Focus
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="32" height="32" alt="Focus">
+  <img src="https://img.shields.io/badge/🎯-Current%20Focus-4F46E5?style=for-the-badge" alt="Focus" />
 </div>
 
 - 🔭 **Currently Working On**: Full-Stack Web Applications & Mobile Development
@@ -173,50 +173,23 @@ Tôi là một **Full-Stack Developer** đam mê công nghệ và sáng tạo. V
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
-        <h3 align="center">🚀 E-Commerce Platform</h3>
+      <td width="100%">
+        <h3 align="center">🎮 Meme Card Game</h3>
         <p align="center">
-          <a href="#" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=developerchidi&repo=ecommerce-platform&theme=radical&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF" width="100%" alt="E-Commerce Platform"/>
+          <a href="https://github.com/developerchidi/meme-card" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=developerchidi&repo=meme-card&theme=radical&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF" width="100%" alt="Meme Card Game"/>
           </a>
         </p>
         <p align="center">
-          <strong>Tech Stack:</strong> React, Node.js, MongoDB, Stripe
+          <strong>Tech Stack:</strong> Node.js, Express.js, Socket.io, MongoDB, HTML5, CSS3, JavaScript
         </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">📱 Task Management App</h3>
         <p align="center">
-          <a href="#" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=developerchidi&repo=task-manager&theme=radical&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF" width="100%" alt="Task Manager"/>
+          <strong>Description:</strong> Multiplayer card game where players create funny meme combinations. Features real-time gameplay, chat system, and Vietnamese meme content.
+        </p>
+        <p align="center">
+          <a href="https://github.com/developerchidi/meme-card" target="_blank">
+            <img src="https://img.shields.io/badge/View%20Project-GitHub-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="View Project" />
           </a>
-        </p>
-        <p align="center">
-          <strong>Tech Stack:</strong> Next.js, TypeScript, PostgreSQL, Prisma
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🤖 AI Chat Application</h3>
-        <p align="center">
-          <a href="#" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=developerchidi&repo=ai-chat-app&theme=radical&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF" width="100%" alt="AI Chat App"/>
-          </a>
-        </p>
-        <p align="center">
-          <strong>Tech Stack:</strong> React, OpenAI API, Node.js, Socket.io
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">📊 Analytics Dashboard</h3>
-        <p align="center">
-          <a href="#" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=developerchidi&repo=analytics-dashboard&theme=radical&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF" width="100%" alt="Analytics Dashboard"/>
-          </a>
-        </p>
-        <p align="center">
-          <strong>Tech Stack:</strong> Vue.js, D3.js, Python, FastAPI
         </p>
       </td>
     </tr>
@@ -301,7 +274,7 @@ Tôi là một **Full-Stack Developer** đam mê công nghệ và sáng tạo. V
 ## 💬 Quick Facts
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="32" height="32" alt="Facts">
+  <img src="https://img.shields.io/badge/💬-Quick%20Facts-4F46E5?style=for-the-badge" alt="Facts" />
 </div>
 
 - 🎯 **Goal**: Creating impactful digital solutions that make a difference
