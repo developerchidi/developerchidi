@@ -1,14 +1,11 @@
 <div align="center">
-  <!-- Container with relative positioning -->
-  <div style="position: relative; width: 100%; height: 200px; margin-bottom: 20px;">
-    <!-- Beautiful Tech Banner as background -->
-    <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTAzMTEyNTEsIm5iZiI6MTc1MDMxMDk1MSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjE5VDA1MjkxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYwMzVhNWY0NzlhNWRmZDdkZTVmZjY1NDhjMmQ1ZGFiNDJjNjI2MDI3ZTk3MjI0NjE1N2Y5ZDhiZmY0MjhkNDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.VCTjJrgRcNXu6LZgTwJ5qGjXZJsdyhiRwIUyNIv9524" alt="Tech Banner" width="100%" height="200" style="object-fit: cover; border-radius: 10px; position: absolute; top: 0; left: 0; z-index: 1;">
-    
-    <!-- Animated Typing Header overlaid on top -->
-    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 2; background: rgba(0,0,0,0.7); padding: 20px; border-radius: 10px; backdrop-filter: blur(5px);">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&lines=Hello%2C+I'm+Chidi!+%F0%9F%91%8B;Welcome+to+my+profile+%F0%9F%8C%9F;Full-Stack+Developer+%F0%9F%9A%80;Passionate+about+innovation+%F0%9F%92%BB" alt="Typing SVG" />
-    </div>
-  </div>
+  <!-- Animated Typing Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Chidi!+%F0%9F%91%8B;Welcome+to+my+profile+%F0%9F%8C%9F;Full-Stack+Developer+%F0%9F%9A%80;Passionate+about+innovation+%F0%9F%92%BB" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <!-- Beautiful Tech Banner -->
+  <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTAzMTEyNTEsIm5iZiI6MTc1MDMxMDk1MSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjE5VDA1MjkxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYwMzVhNWY0NzlhNWRmZDdkZTVmZjY1NDhjMmQ1ZGFiNDJjNjI2MDI3ZTk3MjI0NjE1N2Y5ZDhiZmY0MjhkNDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.VCTjJrgRcNXu6LZgTwJ5qGjXZJsdyhiRwIUyNIv9524" alt="Tech Banner" width="100%" height="200" style="border-radius: 10px; margin-bottom: 20px;">
 </div>
 
 <div align="center">
@@ -186,7 +183,7 @@ Tôi là một **Full-Stack Developer** đam mê công nghệ và sáng tạo. V
 ### 🎮 Meme Card Game
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=developerchidi&repo=meme-card&theme=radical&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF" width="100%" alt="Meme Card Game"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=developerchidi&repo=meme-card&theme=radical&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF" width="100%" height="500px" alt="Meme Card Game"/>
 </div>
 
 **🎯 Project Overview:** A fun multiplayer card game where players create hilarious meme combinations in real-time. Features Vietnamese meme content, live chat, and competitive gameplay.
