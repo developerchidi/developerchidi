@@ -351,20 +351,6 @@ Tôi là một **Full-Stack Developer** đam mê công nghệ và sáng tạo. V
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="Animated Divider">
 </div>
 
-## 💬 Quick Facts
-
-<div align="center">
-  <img src="https://img.shields.io/badge/💬-Quick%20Facts-4F46E5?style=for-the-badge" alt="Facts" />
-</div>
-
-- 🎯 **Goal**: Creating impactful digital solutions that make a difference
-- 🌍 **Languages**: Vietnamese (Native), English (Fluent), Japanese (Basic)
-- 🎨 **Design Philosophy**: User-centered design with clean, modern aesthetics
-- 🚀 **Work Style**: Agile methodology, continuous learning, and innovation
-- 📚 **Education**: Computer Science Degree, Multiple Certifications
-- 🏆 **Achievements**: 20+ Projects Completed, 5+ Years Experience
-- 🌟 **Specialties**: Full-Stack Development, Cloud Architecture, Performance Optimization
-
 <!-- Animated Divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="Animated Divider">
