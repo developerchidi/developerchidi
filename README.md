@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Animated Typing Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Chidi!+%F0%9F%91%8B;Welcome+to+my+profile+%F0%9F%8C%9F;Full-Stack+Developer+%F0%9F%9A%80;Passionate+about+innovation+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Chidi!+%F0%9F%91%8B;Welcome+to+my+profile+%F0%9F%8C%9F;Passionate+about+innovation+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -299,44 +299,13 @@ Tôi là một **Full-Stack Developer** đam mê công nghệ và sáng tạo. V
 
 <div align="center">
   <p>I'm always open to exciting new projects and collaborations!</p>
-  <a href="mailto:chidi@example.com">
+  <a href="mailto:nguyenchidi.dev@gmail.com">
     <img src="https://img.shields.io/badge/Let's%20Talk-Email%20Me-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
   </a>
-  <a href="https://linkedin.com/in/developerchidi">
+  <a href="https://www.linkedin.com/in/th%C3%A0nh-l%E1%BB%99c-nguy%E1%BB%85n-770901355/">
     <img src="https://img.shields.io/badge/Connect-LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
-
-<!-- Animated Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="Animated Divider">
-</div>
-
-## 🌟 Skills & Expertise
-
-### 💻 Programming Languages
-- **JavaScript/TypeScript**: Advanced proficiency in modern ES6+ features, async programming, and TypeScript best practices
-- **Python**: Data analysis, automation, machine learning, and backend development with Django/FastAPI
-- **HTML/CSS**: Responsive design, modern CSS frameworks, and accessibility standards
-- **Java**: Enterprise applications, Spring Boot, and microservices architecture
-
-### 🎨 Frontend Development
-- **React.js**: Component-based architecture, hooks, context API, and state management (Redux/Zustand)
-- **Next.js**: Server-side rendering, static generation, and performance optimization
-- **Tailwind CSS**: Utility-first CSS framework for rapid development and consistent design
-- **Vue.js**: Progressive framework with composition API and Vuex state management
-
-### ⚙️ Backend Development
-- **Node.js**: RESTful APIs, GraphQL, and server-side logic with Express.js
-- **Express.js**: Web application framework with middleware and routing
-- **Database Design**: MongoDB, PostgreSQL, MySQL with ORM tools (Prisma, Mongoose)
-- **Microservices**: Docker, Kubernetes, and cloud-native development
-
-### 🛠️ Development Tools
-- **Version Control**: Git, GitHub workflows, and CI/CD pipelines
-- **Development Environment**: VS Code, Docker, and cloud development
-- **Design Tools**: Figma, Adobe Creative Suite, and prototyping tools
-- **Testing**: Jest, Cypress, and automated testing strategies
 
 <!-- Animated Divider -->
 <div align="center">
