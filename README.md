@@ -232,8 +232,10 @@ Tôi là một **Full-Stack Developer** đam mê công nghệ và sáng tạo. V
 
 ### 🔮 Coming Soon
 
+<!-- Coming Soon Projects -->
 <div align="center">
-  <h4>Exciting projects I'm currently working on</h4>
+  <h3>🔮 Coming Soon</h3>
+  <p>Exciting projects I'm currently working on</p>
 </div>
 
 #### 🛒 E-Commerce Platform
@@ -296,118 +298,6 @@ Tôi là một **Full-Stack Developer** đam mê công nghệ và sáng tạo. V
 ### 🤝 Want to Collaborate?
 
 <div align="center">
-  <p>I'm always open to exciting new projects and collaborations!</p>
-  <a href="mailto:chidi@example.com">
-    <img src="https://img.shields.io/badge/Let's%20Talk-Email%20Me-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
-  </a>
-  <a href="https://linkedin.com/in/developerchidi">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
-<!-- Animated Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="Animated Divider">
-</div>
-
-<!-- Coming Soon Projects -->
-<div align="center">
-  <h3>🔮 Coming Soon</h3>
-  <p>Exciting projects I'm currently working on</p>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <div align="center">
-          <h3>🛒 E-Commerce Platform</h3>
-          <p><strong>Modern Online Shopping Experience</strong></p>
-        </div>
-        
-        <div align="center">
-          <img src="https://via.placeholder.com/400x200/4F46E5/FFFFFF?text=E-Commerce+Platform" width="100%" alt="E-Commerce Platform" style="border-radius: 10px;"/>
-        </div>
-        
-        <div align="center">
-          <p><strong>🛠️ Planned Tech Stack:</strong></p>
-          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-          <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FFFFFF" alt="Next.js" />
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-          <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
-        </div>
-        
-        <div align="center">
-          <p><strong>✨ Planned Features:</strong></p>
-          • 🛍️ Product catalog & search<br>
-          • 💳 Secure payment processing<br>
-          • 📱 Mobile-first design<br>
-          • 🔍 Advanced filtering
-        </div>
-        
-        <div align="center">
-          <img src="https://img.shields.io/badge/Status-In%20Development-FF6B35?style=for-the-badge" alt="In Development" />
-        </div>
-      </td>
-      
-      <td width="50%">
-        <div align="center">
-          <h3>📱 Task Management App</h3>
-          <p><strong>Productivity & Collaboration Tool</strong></p>
-        </div>
-        
-        <div align="center">
-          <img src="https://via.placeholder.com/400x200/4F46E5/FFFFFF?text=Task+Manager" width="100%" alt="Task Manager" style="border-radius: 10px;"/>
-        </div>
-        
-        <div align="center">
-          <p><strong>🛠️ Planned Tech Stack:</strong></p>
-          <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=FFFFFF" alt="Next.js" />
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-          <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
-        </div>
-        
-        <div align="center">
-          <p><strong>✨ Planned Features:</strong></p>
-          • ✅ Task creation & management<br>
-          • 👥 Team collaboration<br>
-          • 📊 Progress tracking<br>
-          • 🔔 Real-time notifications
-        </div>
-        
-        <div align="center">
-          <img src="https://img.shields.io/badge/Status-Planning%20Phase-FFD700?style=for-the-badge" alt="Planning Phase" />
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Project Showcase Stats -->
-<div align="center">
-  <h3>📈 Project Statistics</h3>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Total%20Projects-5+-4F46E5?style=for-the-badge" alt="Total Projects" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Completed-3-4F46E5?style=for-the-badge" alt="Completed" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/In%20Progress-2-4F46E5?style=for-the-badge" alt="In Progress" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Technologies-15+-4F46E5?style=for-the-badge" alt="Technologies" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Call to Action -->
-<div align="center">
-  <h3>🤝 Want to Collaborate?</h3>
   <p>I'm always open to exciting new projects and collaborations!</p>
   <a href="mailto:chidi@example.com">
     <img src="https://img.shields.io/badge/Let's%20Talk-Email%20Me-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
