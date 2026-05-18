@@ -4,7 +4,11 @@
 
 ---
 
-Tôi là developer với kinh nghiệm phát triển web applications sử dụng Next.js, TypeScript và Node.js. Hiện đang tập trung vào xây dựng các sản phẩm thực tế và cải thiện kỹ năng về system design.
+Final-year Information Technology student interested in backend development and scalable
+RESTful API design.
+Built several backend systems through personal projects.
+Seeking a Backend Developer Internship to gain practical experience and contribute to real
+world software development.
 
 ---
 
@@ -12,8 +16,8 @@ Tôi là developer với kinh nghiệm phát triển web applications sử dụn
 
 | Category | Technologies |
 |----------|-------------|
-| **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
-| **Backend** | Node.js, Express |
+| **Frontend** | ReactJs, Angular, React Navtive, Next.js, TypeScript, Tailwind CSS |
+| **Backend** | Node.js, Express, Java SpringBoot |
 | **Database** | PostgreSQL, MongoDB, Redis |
 | **Tools** | Git, Docker, VS Code |
 
